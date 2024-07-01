@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/notebooks/intro.ipynb
 """
 
-!pip install psycopg2-binary
-
 # Libraries
 import psycopg2 as psql
 import json
